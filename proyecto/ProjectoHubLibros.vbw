@@ -1,0 +1,13 @@
+frmlogin = 176, 36, 863, 540, , 141, 117, 735, 622, C
+ModuloSentencias = 68, 68, 679, 611, 
+ModuloDeclaraciones = 0, 104, 429, 608, C
+frmPrincipal = 45, 89, 483, 585, , 49, 71, 954, 658, C
+frmListaUsuarios = 66, 70, 590, 566, , 37, 59, 921, 718, C
+frmAddUser = 411, -11, 1075, 485, , 116, 46, 843, 542, C
+frmUpdateUser = 182, 182, 1374, 678, C, 22, 40, 737, 584, C
+frmListLibros = 21, -3, 759, 633, , 26, 26, 739, 522, C
+frmViewPortalBook = 38, 50, 1031, 586, , 185, 36, 702, 650, C
+frmReadPdf = 138, 218, 1330, 714, C, 26, 26, 701, 602, C
+frmFavoritos = 52, 52, 1006, 548, , 58, 108, 541, 604, C
+frmListBooksRead = 78, 78, 836, 574, , 26, 26, 804, 522, C
+frmListBooksNG = 52, 52, 1244, 548, C, 29, 21, 644, 517, C
